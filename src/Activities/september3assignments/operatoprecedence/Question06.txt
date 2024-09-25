@@ -1,0 +1,8 @@
+Question 6: Order of Operations with Mixed Operators
+
+Task:
+Given the expression 3 + 6 * (5 + 4) / 3 - 7, evaluate the result and print it. Explain how the combination of parentheses, multiplication, division, addition, and subtraction is evaluated.
+
+Expected Output:
+
+14

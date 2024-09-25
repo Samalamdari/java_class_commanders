@@ -1,0 +1,4 @@
+Question 8: Dynamic String Comparison
+
+Task:
+Given a string "OpenAI" and a user-defined input string (assume the user enters "openai"), use the equals() method to check if the strings are exactly equal. If they are not, print "Strings do not match exactly".

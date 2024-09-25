@@ -1,0 +1,4 @@
+Question 10: Comparing Substrings for Equality
+
+Task:
+Given a string "Welcome to Java Programming", extract the substring "Java" and compare it with the string "Java" using the equals() method. Print whether they are equal.

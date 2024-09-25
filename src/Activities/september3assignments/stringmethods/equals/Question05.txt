@@ -1,0 +1,8 @@
+Question 5: Comparing Strings with Different Lengths
+
+Task:
+Given two strings, "JavaScript" and "Java", use the equals() method to check if they are equal. Print the result.
+
+Expected Output:
+
+false

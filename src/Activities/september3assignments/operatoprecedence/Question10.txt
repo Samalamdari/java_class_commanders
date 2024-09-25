@@ -1,0 +1,13 @@
+Question 10: Complex Expression with Scanner Input
+
+Task:
+Write a program that asks the user for two integers using the Scanner class. Then, calculate and print the result of the expression (firstNumber + secondNumber) * firstNumber / secondNumber + 2. Explain how the precedence rules are applied in this expression.
+
+Sample Input:
+
+Enter first number: 4
+Enter second number: 2
+
+Expected Output:
+
+Result: 12

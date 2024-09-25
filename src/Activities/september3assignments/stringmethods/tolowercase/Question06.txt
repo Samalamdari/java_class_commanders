@@ -1,0 +1,4 @@
+Question 6: Case Conversion and Replacement
+
+Task:
+Given a string "TeXT aND mORe TeXT", use the toLowerCase() method and replace() method together to convert the string to lowercase and then replace all occurrences of "text" with "data". Print the final result.

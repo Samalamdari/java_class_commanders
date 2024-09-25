@@ -1,0 +1,4 @@
+Question 6: Conditional Substring Check
+
+Task:
+Given a string "Data Science and AI", check if it contains the word "Science". If it does, replace the word "Science" with "Analysis" and print the final result.

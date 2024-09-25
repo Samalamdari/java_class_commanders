@@ -1,0 +1,2 @@
+7. Copying Arrays:
+Declare two arrays of integers, A = [5, 10, 15, 20, 25] and B of size 5. Now, copy all elements of array A into array B.

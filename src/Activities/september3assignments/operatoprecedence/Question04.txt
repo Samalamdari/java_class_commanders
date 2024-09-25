@@ -1,0 +1,8 @@
+Question 4: Division and Multiplication with Addition
+
+Task:
+Given the expression 8 + 12 / 4 * 2, evaluate the result and print it. Explain the precedence of division and multiplication over addition.
+
+Expected Output:
+
+14

@@ -1,0 +1,9 @@
+Question 3: Post-Increment
+
+Task:
+Given an int variable a = 7, use post-increment (a++) and then print a. Explain the order in which the operations are performed.
+
+Expected Output:
+
+7
+8

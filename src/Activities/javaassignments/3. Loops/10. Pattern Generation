@@ -1,0 +1,10 @@
+1. Pattern Generation:
+Using nested loops, create the following pattern:
+
+markdown
+
+    *
+   ***
+  *****
+ *******
+*********

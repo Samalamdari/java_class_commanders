@@ -1,0 +1,2 @@
+5. Logical Operators:
+Imagine you're coding a security system. The door will only open if isPasswordCorrect is true AND isAdmin is true. Write a code snippet to check these conditions using the AND (&&) operator.

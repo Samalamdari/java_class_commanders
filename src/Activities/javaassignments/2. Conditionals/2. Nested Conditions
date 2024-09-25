@@ -1,0 +1,2 @@
+2. Nested Conditions:
+In a game, a character can attack an enemy if they have a weapon and enough energy. If the hasWeapon variable is true and the energyLevel is greater than 50, display "Attack the enemy!". If hasWeapon is true but energy is not sufficient, display "Need more energy to attack.". If hasWeapon is false, regardless of the energy level, show "Find a weapon first!".

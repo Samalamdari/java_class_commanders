@@ -1,0 +1,2 @@
+. Factorial Computation:
+Write a program that asks the user for a number nn and then calculates the factorial of that number. The factorial of a number is the product of all positive integers less than or equal to that number. For example, the factorial of 5 is 5×4×3×2×1=1205×4×3×2×1=120.

@@ -1,0 +1,5 @@
+Question 24: Average of Three Test Scores
+
+    Create three double variables named score1, score2, and score3 and assign them values like 85.5, 90.0, and 78.0.
+    Calculate the average of these three scores.
+    Print the average score.

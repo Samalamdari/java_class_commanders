@@ -1,0 +1,6 @@
+4. Comparison Operators:
+Given two values, x = 5 and y = 8, determine and display the results of the following comparisons:
+
+    Is x greater than y?
+    Is x less than or equal to y?
+    Are x and y equal?

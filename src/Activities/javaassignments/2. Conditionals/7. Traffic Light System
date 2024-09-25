@@ -1,0 +1,2 @@
+6. Months of the Year:
+Given an integer variable month where 1 represents January, 2 for February, and so on till 12 for December, use a switch case to display the name of the month. For any other value, display "Invalid month value".

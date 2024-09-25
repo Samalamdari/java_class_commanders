@@ -1,0 +1,4 @@
+Question 7: Checking Palindrome Ignoring Case
+
+Task:
+Given a string "Madam", use the toLowerCase() method to check if the string is a palindrome, ignoring case differences. Print whether the string is a palindrome.

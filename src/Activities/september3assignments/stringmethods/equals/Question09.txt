@@ -1,0 +1,4 @@
+Question 9: Checking for Null Strings
+
+Task:
+Create a string variable str1 with the value null and another string variable str2 with the value "null". Use the equals() method to check if they are equal, and handle the null case safely. Print the result.

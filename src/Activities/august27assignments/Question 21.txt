@@ -1,0 +1,7 @@
+Question 21: Simple Interest Calculation
+
+    Create a double variable named principal and assign it the value 1000.0.
+    Create a double variable named rate and assign it the value 5.5.
+    Create an int variable named time and assign it the value 2.
+    Calculate the simple interest using the formula: SimpleInterest = (principal * rate * time) / 100.
+    Print the simple interest.

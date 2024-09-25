@@ -1,0 +1,9 @@
+Question 4: Post-Decrement
+
+Task:
+Given an int variable b = 15, use post-decrement (b--) and then print b. Explain the order in which the operations are performed.
+
+Expected Output:
+
+15
+14

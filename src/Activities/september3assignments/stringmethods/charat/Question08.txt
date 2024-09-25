@@ -1,0 +1,4 @@
+Question 8: Counting Specific Characters
+
+Task:
+Given a string "Mississippi", use the charAt() method to count how many times the character "s" appears in the string. Print the total count.

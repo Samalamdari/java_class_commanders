@@ -1,0 +1,2 @@
+4. Variable Arguments:
+Write a method named sum that accepts a variable number of integer arguments and returns their sum.

@@ -1,0 +1,8 @@
+Question 2: Mixed Case Conversion
+
+Task:
+Given a string "JaVa PrOgRaMmInG", use the toLowerCase() method to convert the entire string to lowercase. Print the result.
+
+Expected Output:
+
+java programming

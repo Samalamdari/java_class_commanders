@@ -1,0 +1,4 @@
+Question 8: Case-Insensitive Substring Check
+
+Task:
+Given two strings "Hello World" and "world", use the toLowerCase() method to check if the second string is a substring of the first string, ignoring case. Print the result.

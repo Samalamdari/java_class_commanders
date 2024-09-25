@@ -1,0 +1,8 @@
+Question 2: Replacing Characters
+
+Task:
+Given a string "banana", use the replace() method to change all occurrences of the letter "a" to "o". Print the result.
+
+Expected Output:
+
+bonono

@@ -1,0 +1,2 @@
+1. Basic Method Creation:
+Write a method named greet that takes a string parameter name and returns a greeting message, such as "Hello, John!".

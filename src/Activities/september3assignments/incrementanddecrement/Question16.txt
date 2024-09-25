@@ -1,0 +1,9 @@
+Question 16: Pre and Post-Decrement in Same Expression
+
+Task:
+Given int v = 9; int result = --v - v--;, evaluate the value of result and v. Print both values.
+
+Expected Output:
+
+result = -1
+v = 7

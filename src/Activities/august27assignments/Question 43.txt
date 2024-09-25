@@ -1,0 +1,6 @@
+Question 43: Converting Celsius to Fahrenheit
+
+    Create a Scanner object to read input from the user.
+    Ask the user to enter a temperature in Celsius and store it in a double variable named celsius.
+    Convert the temperature to Fahrenheit using the formula: Fahrenheit = (celsius * 9/5) + 32.
+    Print the temperature in Fahrenheit.

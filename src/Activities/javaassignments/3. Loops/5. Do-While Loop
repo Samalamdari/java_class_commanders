@@ -1,0 +1,2 @@
+5. Do-While Loop:
+Imagine you're writing a program for an ATM. The user has three chances to enter the correct pin number (let's assume it's "1234"). Use a do-while loop to allow the user three attempts to enter the pin correctly, and after three wrong attempts, display "Card Blocked!".

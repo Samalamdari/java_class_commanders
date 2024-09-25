@@ -1,0 +1,10 @@
+Question 11: Multiple Increments
+
+Task:
+Given int x = 1; int y = 2; int result = x++ + ++y;, evaluate the value of result, x, and y. Print all values.
+
+Expected Output:
+
+result = 4
+x = 2
+y = 3

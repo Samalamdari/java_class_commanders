@@ -1,0 +1,7 @@
+Question 4: Combining Strings and Finding Length
+
+Task:
+Create two strings: "Hello" and "World". Combine them into one string, "HelloWorld", and then use the length() method to find the length of the combined string. Print the result.
+
+Expected Outcome:
+The output should be the length of the combined string.

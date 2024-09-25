@@ -1,0 +1,8 @@
+Question 5: Trimming User Input
+
+Task:
+Given a string " User Input ", use the trim() method to clean up the input before printing it. Print the result.
+
+Expected Output:
+
+User Input

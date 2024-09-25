@@ -1,0 +1,6 @@
+Question 47: Dividing Two Numbers
+
+    Create a Scanner object to read input from the user.
+    Ask the user to enter two double values and store them in variables named num1 and num2.
+    Calculate the result of dividing num1 by num2.
+    Print the result.

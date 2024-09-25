@@ -1,0 +1,9 @@
+Question 8: Using Decrement in an Expression
+
+Task:
+Given int q = 8; int result = q-- + 3;, evaluate the value of result and q. Print both values.
+
+Expected Output:
+
+result = 11
+q = 7

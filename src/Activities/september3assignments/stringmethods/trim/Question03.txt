@@ -1,0 +1,8 @@
+Question 3: Trimming a String with Only Spaces
+
+Task:
+Given a string " ", use the trim() method to remove all the spaces. Print the length of the resulting string.
+
+Expected Output:
+
+0

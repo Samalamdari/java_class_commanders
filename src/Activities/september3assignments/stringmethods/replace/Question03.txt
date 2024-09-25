@@ -1,0 +1,10 @@
+Question 3: Case-Sensitive Replacement
+
+Task:
+Given a string "Java programming is fun", use the replace() method to replace "Java" with "Python". Print the result.
+
+Expected Output:
+
+kotlin
+
+Python programming is fun

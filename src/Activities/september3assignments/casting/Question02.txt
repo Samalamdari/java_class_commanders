@@ -1,0 +1,8 @@
+Question 2: Explicit Casting
+
+Task:
+Given a double variable num = 9.8, cast it explicitly to an int and print the result. Explain why data loss occurs during this process.
+
+Expected Output:
+
+9

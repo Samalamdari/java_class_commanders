@@ -1,0 +1,12 @@
+Question 18: Using Decrement in a While Loop Condition
+
+Task:
+Given int b = 5; while (b-- > 0) { System.out.println(b); }, determine the output and explain the order in which the decrement and comparison are performed.
+
+Expected Output:
+
+4
+3
+2
+1
+0

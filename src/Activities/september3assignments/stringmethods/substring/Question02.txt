@@ -1,0 +1,5 @@
+Question 2: Substring from a Specific Position
+
+Task:
+Create a string "JavaDeveloper". Use the substring() method to extract everything from "Developer" onwards. Print the result.
+

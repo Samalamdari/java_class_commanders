@@ -1,0 +1,6 @@
+Question 52: Adding Three Numbers
+
+    Create a Scanner object to read input from the user.
+    Ask the user to enter three int values and store them in variables named num1, num2, and num3.
+    Calculate the sum of the three numbers.
+    Print the sum.

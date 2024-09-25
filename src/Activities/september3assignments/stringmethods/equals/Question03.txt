@@ -1,0 +1,8 @@
+Question 3: Comparing with an Empty String
+
+Task:
+Given a string " " (a single space) and an empty string "", use the equals() method to check if they are equal. Print the result.
+
+Expected Output:
+
+false

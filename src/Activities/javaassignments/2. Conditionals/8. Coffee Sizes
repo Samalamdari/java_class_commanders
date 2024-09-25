@@ -1,0 +1,8 @@
+8. Coffee Sizes:
+In a coffee shop application, customers can choose a size for their coffee: "Small", "Medium", "Large", or "Extra Large". Use a switch case based on a coffeeSize string variable to display the price of the coffee:
+
+    Small: "$2"
+    Medium: "$3"
+    Large: "$4"
+    Extra Large: "$5"
+    For any other input, display "We don't serve that size here".

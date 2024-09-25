@@ -1,0 +1,5 @@
+Question 7: Conditional Substring Extraction
+
+Task:
+Given a string that might vary in length, such as "WelcomeToJavaProgramming", write a condition that extracts the first half of the string if its length is even, or the first three characters if its length is odd. Use the substring() method and print the result.
+

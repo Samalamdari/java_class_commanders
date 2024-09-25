@@ -1,0 +1,4 @@
+Question 6: Case-Insensitive Comparison
+
+Task:
+Given two strings, "Java Programming" and "java programming", write logic that compares them for equality ignoring case. Print whether they are considered equal.

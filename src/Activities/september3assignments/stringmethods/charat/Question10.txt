@@ -1,0 +1,4 @@
+Question 10: Checking for Vowels at Specific Positions
+
+Task:
+Given a string "Umbrella", use the charAt() method to check if the first and last characters are vowels. Print true if both are vowels, otherwise print false.

@@ -1,0 +1,8 @@
+Question 2: Accessing the Last Character
+
+Task:
+Given a string "Java", use the charAt() method to access and print the last character of the string.
+
+Expected Output:
+
+a

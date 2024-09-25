@@ -1,0 +1,4 @@
+Question 9: Dynamic Case Conversion
+
+Task:
+Given a string "Toggle CASE", write logic that converts the string to lowercase only if it contains any uppercase letters. If the string is already in lowercase, print "No conversion needed". Print the final result.

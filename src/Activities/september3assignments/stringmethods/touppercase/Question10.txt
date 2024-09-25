@@ -1,0 +1,4 @@
+Question 10: Complex Case Manipulation
+
+Task:
+Given a string "AbCdEfGhIj", convert the string to uppercase. Then, replace every fourth character in the string with "*". Print the final result.

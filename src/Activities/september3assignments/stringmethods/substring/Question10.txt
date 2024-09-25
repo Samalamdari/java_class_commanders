@@ -1,0 +1,5 @@
+Question 10: Reconstructing a Sentence
+
+Task:
+Given the sentence "Java is fun to learn", use the substring() method to extract and reorder the words to form the sentence "learn to fun Java is". You may only use substring() and concatenation. Print the final result.
+

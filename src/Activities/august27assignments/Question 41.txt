@@ -1,0 +1,6 @@
+Question 41: Simple Addition
+
+    Create a Scanner object to read input from the user.
+    Ask the user to enter two integers and store them in int variables named num1 and num2.
+    Calculate the sum of the two numbers.
+    Print the sum.

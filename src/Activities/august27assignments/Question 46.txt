@@ -1,0 +1,6 @@
+Question 46: Calculating Circle Circumference
+
+    Create a Scanner object to read input from the user.
+    Ask the user to enter the radius of a circle and store it in a double variable named radius.
+    Calculate the circumference using the formula: Circumference = 2 * Math.PI * radius.
+    Print the circumference.

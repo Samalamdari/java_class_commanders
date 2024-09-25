@@ -1,0 +1,4 @@
+Question 10: Case-Insensitive Substring Check
+
+Task:
+Given a string "Data Mining Techniques", check if it contains the word "data" in a case-insensitive manner. If it does, print "Match found", otherwise print "No match found".

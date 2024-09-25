@@ -1,0 +1,10 @@
+Question 12: Mixed Increments and Decrements
+
+Task:
+Given int a = 10; int b = 5; int result = a-- - ++b;, evaluate the value of result, a, and b. Print all values.
+
+Expected Output:
+
+result = 4
+a = 9
+b = 6

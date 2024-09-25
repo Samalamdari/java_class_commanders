@@ -1,0 +1,8 @@
+Question 3: Char to Int
+
+Task:
+Given a char variable ch = 'A', cast it to an int and print the result. Explain what value is printed and why.
+
+Expected Output:
+
+65

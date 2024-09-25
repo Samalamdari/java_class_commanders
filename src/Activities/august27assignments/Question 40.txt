@@ -1,0 +1,6 @@
+Question 40: Reading and Printing User's Name
+
+    Create a Scanner object to read input from the user.
+    Ask the user to enter their first name and store it in a String variable named firstName.
+    Ask the user to enter their last name and store it in a String variable named lastName.
+    Print a greeting message that includes the user's full name (e.g., "Hello, John Doe!").

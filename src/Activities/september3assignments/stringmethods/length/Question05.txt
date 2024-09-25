@@ -1,0 +1,7 @@
+Question 5: Analyzing Length of User Input
+
+Task:
+Ask the user to input any string (you can assume a predefined string for this assignment, e.g., "OpenAI"). Use the length() method to determine the length of the string provided by the user and print the result.
+
+Expected Outcome:
+The output should be the length of the user's input string.

@@ -1,0 +1,2 @@
+10. Exclusive OR (XOR) (^):
+A light switch application requires two switches to be in opposite states (i.e., one ON and one OFF) for a light to turn on. Given boolean switchA = true; (where true means ON) and boolean switchB = false;, write a condition using XOR to check if the light will be ON.

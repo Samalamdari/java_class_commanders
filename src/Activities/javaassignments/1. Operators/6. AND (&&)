@@ -1,0 +1,2 @@
+6. AND (&&):
+You are designing a game where a player can enter a secret room only if they have a goldKey AND a password that matches "OpenSesame". Given boolean goldKey = true; and String password = "OpenSesame";, write a condition to check if the player can enter the room.

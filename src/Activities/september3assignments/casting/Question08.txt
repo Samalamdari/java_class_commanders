@@ -1,0 +1,4 @@
+Question 8: String to Int Conversion (Manual Casting)
+
+Task:
+Given a String variable strNum = "123", manually convert it to an int using the Integer.parseInt() method. Print the result and explain how manual casting from String to int works.

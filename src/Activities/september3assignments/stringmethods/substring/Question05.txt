@@ -1,0 +1,5 @@
+Question 5: Extracting Initials
+
+Task:
+Given a full name as a string, such as "John Doe", use the substring() method to extract the initials "J" and "D". Combine these initials to form "JD" and print the result.
+

@@ -1,0 +1,8 @@
+Question 1: Basic Conversion
+
+Task:
+Given a string "HELLO WORLD", use the toLowerCase() method to convert the entire string to lowercase. Print the result.
+
+Expected Output:
+
+hello world

@@ -1,0 +1,4 @@
+Question 8: Replacing Specific Characters
+
+Task:
+Given a string "password123", replace all digits in the string with the character "*". Use the replace() method creatively to achieve this. Print the final result.

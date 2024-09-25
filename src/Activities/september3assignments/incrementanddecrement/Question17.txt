@@ -1,0 +1,8 @@
+Question 17: Using Increment in an If Statement
+
+Task:
+Given int a = 4; if (++a == 5) { System.out.println("Equal"); } else { System.out.println("Not Equal"); }, determine what is printed and explain why.
+
+Expected Output:
+
+Equal

@@ -1,0 +1,4 @@
+Question 7: Reversing a String Manually
+
+Task:
+Given a string "Python", use the charAt() method to manually print the string in reverse order, character by character.

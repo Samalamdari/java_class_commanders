@@ -1,0 +1,2 @@
+5. Switch Case:
+Given an integer variable dayOfWeek where 1 represents Monday, 2 for Tuesday, and so on till 7 for Sunday, use a switch case to display the name of the day. For any other value, display "Invalid day value".

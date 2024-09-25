@@ -1,0 +1,2 @@
+4. Ternary Operator:
+In an online store, if a user is a member, they get a 10% discount. Given the original price of an item and a boolean isMember, calculate and display the final price using the ternary operator.

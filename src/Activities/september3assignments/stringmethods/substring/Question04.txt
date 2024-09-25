@@ -1,0 +1,5 @@
+Question 4: Finding Substrings within a String
+
+Task:
+Given a string "OpenAI is awesome!", find the substring "AI" within the string. Use the substring() method in combination with the indexOf() method to extract "AI" and print it. Explain how you located the substring.
+

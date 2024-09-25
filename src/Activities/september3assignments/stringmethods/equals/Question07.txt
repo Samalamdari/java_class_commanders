@@ -1,0 +1,4 @@
+Question 7: Comparing Strings with Leading or Trailing Spaces
+
+Task:
+Given two strings, " Hello " and "Hello", use the trim() method in combination with equals() to check if they are equal after removing leading and trailing spaces. Print the result.

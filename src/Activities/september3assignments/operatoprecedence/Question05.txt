@@ -1,0 +1,8 @@
+Question 5: Using Modulus with Addition
+
+Task:
+Given the expression 7 + 9 % 4, evaluate the result and print it. Explain how the modulus operator is evaluated before addition.
+
+Expected Output:
+
+10

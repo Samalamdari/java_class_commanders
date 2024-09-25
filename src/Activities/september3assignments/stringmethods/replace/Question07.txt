@@ -1,0 +1,4 @@
+Question 7: Conditional Replacement
+
+Task:
+Given a string "The quick brown fox jumps over the lazy dog", replace the word "quick" with "slow" only if the string contains the word "fox". Print the result.

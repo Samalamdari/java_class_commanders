@@ -1,0 +1,4 @@
+Question 7: Multiple Substring Check
+
+Task:
+Given a string "Machine Learning with Python", use the contains() method to check if the string contains both "Machine" and "Python". Print true if both substrings are found, otherwise print false.

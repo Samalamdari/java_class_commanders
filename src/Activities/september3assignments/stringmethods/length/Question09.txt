@@ -1,0 +1,7 @@
+Question 9: Counting Specific Characters
+
+Task:
+Given a string like "abracadabra", count how many times a specific character (e.g., "a") appears in the string. Use the length() method indirectly by comparing the length of the string before and after removing all occurrences of the character "a". Explain the logic behind your approach.
+
+Expected Outcome:
+Students will need to think about how to use string methods together creatively, even though they haven't formally studied loops or advanced methods yet.

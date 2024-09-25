@@ -1,0 +1,4 @@
+Question 7: Casting Between Primitive and Wrapper Types
+
+Task:
+Given an Integer object num = 50, manually cast it to an int and perform an arithmetic operation (e.g., num + 10). Print the result. Explain how unboxing works in Java.

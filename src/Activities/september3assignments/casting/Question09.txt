@@ -1,0 +1,4 @@
+Question 9: Casting Larger Data Types to Smaller
+
+Task:
+Given a double variable decimalValue = 123.456, cast it to a byte and print the result. Explain the outcome and potential data loss.

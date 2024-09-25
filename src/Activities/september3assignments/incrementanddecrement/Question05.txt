@@ -1,0 +1,8 @@
+Question 5: Pre-Increment
+
+Task:
+Given an int variable c = 3, use pre-increment (++c) and then print c. Explain how pre-increment works compared to post-increment.
+
+Expected Output:
+
+4

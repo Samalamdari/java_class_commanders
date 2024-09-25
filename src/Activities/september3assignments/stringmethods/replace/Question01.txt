@@ -1,0 +1,9 @@
+Question 1: Simple Replacement
+
+Task:
+Given a string "Hello World", use the replace() method to change "World" to "Java". Print the result.
+
+
+Expected Output:
+
+Hello Java

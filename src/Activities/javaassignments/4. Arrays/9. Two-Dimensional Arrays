@@ -1,0 +1,10 @@
+9. Two-Dimensional Arrays:
+Declare a 2x3 two-dimensional array named matrix and initialize it with the numbers: 1, 2, 3 in the first row, and 4, 5, 6 in the second row. Display all numbers in a matrix format.
+Example Array:
+
+csharp
+
+matrix = [
+  [1, 2, 3],
+  [4, 5, 6]
+]

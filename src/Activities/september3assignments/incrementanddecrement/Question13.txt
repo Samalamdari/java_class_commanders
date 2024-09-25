@@ -1,0 +1,9 @@
+Question 13: Increment with Arithmetic Operation
+
+Task:
+Given int m = 7; int result = m++ * 2 + --m;, evaluate the value of result and m. Print both values.
+
+Expected Output:
+
+result = 21
+m = 7

@@ -1,0 +1,5 @@
+Question 3: Substring to Reverse a String
+
+Task:
+Given a string "ReverseMe", use the substring() method to break the string into two parts: "Reverse" and "Me". Then, concatenate these two parts in reverse order to form "MeReverse". Print the result.
+

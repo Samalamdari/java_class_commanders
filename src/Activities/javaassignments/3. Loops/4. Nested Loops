@@ -1,0 +1,10 @@
+4. Nested Loops:
+Using nested loops, create a pattern that displays the following:
+
+markdown
+
+*
+**
+***
+****
+*****

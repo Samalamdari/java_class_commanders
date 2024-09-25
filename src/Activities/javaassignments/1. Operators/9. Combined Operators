@@ -1,0 +1,2 @@
+9. Combined Operators:
+For a certain secret club, entry is allowed if you know the secret handshake OR the password, but NOT both. If someone knows both, they are considered a spy. Given boolean knowsHandshake = true; and boolean knowsPassword = true;, determine if the person should be allowed inside or is considered a spy.

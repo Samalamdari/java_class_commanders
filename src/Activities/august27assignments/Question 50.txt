@@ -1,0 +1,6 @@
+Question 50: Converting Kilometers to Miles
+
+    Create a Scanner object to read input from the user.
+    Ask the user to enter a distance in kilometers and store it in a double variable named kilometers.
+    Convert the distance to miles using the formula: Miles = kilometers * 0.621371.
+    Print the distance in miles.

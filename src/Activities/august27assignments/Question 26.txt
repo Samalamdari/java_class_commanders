@@ -1,0 +1,6 @@
+Question 26: Calculating BMI
+
+    Create a double variable named weight in kilograms and assign it the value 70.0.
+    Create a double variable named height in meters and assign it the value 1.75.
+    Calculate the BMI using the formula: BMI = weight / (height * height).
+    Print the BMI.

@@ -1,0 +1,2 @@
+2. Compound Assignment:
+You have a variable totalPoints = 50. During a game, a player scores 10 more points and then loses 5 points in a penalty. Update totalPoints using compound assignment operators.

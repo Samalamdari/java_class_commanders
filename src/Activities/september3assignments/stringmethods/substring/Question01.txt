@@ -1,0 +1,5 @@
+Question 1: Extracting a Simple Substring
+
+Task:
+Given a string "Programming", use the substring() method to extract the word "Program" from it. Print the result.
+

@@ -1,0 +1,4 @@
+Question 6: Conditional Trimming
+
+Task:
+Given a string " Welcome to Java ", use the trim() method to remove the leading and trailing spaces. Then, check if the trimmed string starts with the word "Welcome" and print the result.

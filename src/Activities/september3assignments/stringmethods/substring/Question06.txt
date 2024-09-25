@@ -1,0 +1,5 @@
+Question 6: Substring Puzzle
+
+Task:
+Given a string "abcdefgh", use the substring() method to rearrange the characters into the following order: "efghabcd". You are only allowed to use the substring() method and concatenation. Print the final result.
+

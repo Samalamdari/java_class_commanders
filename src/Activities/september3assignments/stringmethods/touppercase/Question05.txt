@@ -1,0 +1,8 @@
+Question 5: Case Insensitivity Check
+
+Task:
+Given two strings "hello" and "HELLO", use the toUpperCase() method to check if they are equal when converted to uppercase. Print the result.
+
+Expected Output:
+
+true

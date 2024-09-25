@@ -1,0 +1,9 @@
+Question 14: Decrement with Arithmetic Operation
+
+Task:
+Given int n = 14; int result = --n + n-- * 3;, evaluate the value of result and n. Print both values.
+
+Expected Output:
+
+result = 53
+n = 12

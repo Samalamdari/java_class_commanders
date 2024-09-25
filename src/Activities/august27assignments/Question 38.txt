@@ -1,0 +1,6 @@
+Question 38: Splitting a Bill
+
+    Create a double variable named totalBill and assign it the value 250.0.
+    Create an int variable named numberOfPeople and assign it the value 5.
+    Calculate the amount each person should pay by dividing totalBill by numberOfPeople.
+    Print the amount each person should pay.

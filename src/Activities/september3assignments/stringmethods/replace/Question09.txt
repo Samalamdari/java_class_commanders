@@ -1,0 +1,4 @@
+Question 9: Handling Multiple Replacements
+
+Task:
+Given a string "Java, Java, Java", replace only the second occurrence of "Java" with "Python". Print the final result.
