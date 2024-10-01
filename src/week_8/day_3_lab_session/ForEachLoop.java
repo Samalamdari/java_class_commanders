@@ -48,7 +48,6 @@ public class ForEachLoop {
         System.out.println("Sum of odd numbers is: " + sumOfOddNumbers );
 
 
-
     }
 
 }

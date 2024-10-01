@@ -25,7 +25,6 @@ public class ConstructorActivity {
         secondStudent.printInfo();
         thirdStudent.printInfo();
 
-
     }
 
 }
