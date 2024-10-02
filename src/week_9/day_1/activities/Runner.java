@@ -13,12 +13,12 @@ public class Runner {
                 'A'
         );
 
-        var obj = new GeneralInformation(
-                "John",
-                "Doe",
-                "123",
-                "Student"
-        );
+//        var obj = new GeneralInformation(
+//                "John",
+//                "Doe",
+//                "123",
+//                "Student"
+//        );
 
         stdOne.printInfo();
 

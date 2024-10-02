@@ -2,6 +2,7 @@ package week_9.day_1.activities;
 
 // Abstract class representing a generic vehicle
 public abstract class Vehicle {
+
     // Private properties of the Vehicle class
     private String make;
     private String model;
