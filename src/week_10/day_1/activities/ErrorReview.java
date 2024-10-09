@@ -15,7 +15,6 @@ public class ErrorReview {
             System.out.print("Enter the first number: ");
             numberOne = input.nextInt();
 
-
             System.out.print("Enter the second number: ");
             numberTwo = input.nextInt();
 
