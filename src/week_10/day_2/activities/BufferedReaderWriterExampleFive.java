@@ -6,7 +6,7 @@ public class BufferedReaderWriterExampleFive {
 
     public static void main(String[] args) {
 
-        String fileAddress = "C://Users//TEK//Documents//Commanders//table.txt";
+        String fileAddress = "C://Users//TEK//Documents//Commanders//numbers.txt";
 
         try {
             readerAndWriteResult(fileAddress);
@@ -24,12 +24,12 @@ public class BufferedReaderWriterExampleFive {
         String line = reader.readLine();
 
         System.out.println( line );
-//
+
 //        // Convert the string to int and calculate the result
 //        int number = Integer.parseInt( line.trim() );
 //        int result = number * 2;
 
-        reader.close();
+//        reader.close();
 
         // Store the result back to the file in new line
 //        writer.newLine();
