@@ -3,7 +3,7 @@ package week_10.lab_session;
 public class QuestionManagementSystem {
 
     /*
-
+    *
     * Store questions, with multiple choices
     * You should mention the correct option or answer
     *
@@ -26,13 +26,13 @@ public class QuestionManagementSystem {
     *
     * For incorrect answers, display a list of correct answers
     *
+
     * */
 
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
 
         // Object of the main class
         // object.runProgram();
 
     }
 
-}
