@@ -25,7 +25,7 @@ public class QuizApp {
                 "How many primitive data types do we have in java?",
                 new String[]{"1: 4", "2: 5", "3: 6", "4: 8" },
                 4
-        ));
+        ) );
         questions.add( new QuestionsRecord (
                 "What is the result of 2+2?",
                 new String[]{"1: 2", "2: 4", "3: 3", "4: 1" },
