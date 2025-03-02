@@ -47,9 +47,9 @@ class StudentRunner {
         System.out.println( johnObj.lastName );
 
         System.out.println( johnObj.socialSecurityNumber );
-
-
         System.out.println( tonyObj.socialSecurityNumber );
+
+        System.out.println(jamesObj.firstName);
 
     }
 

@@ -17,6 +17,7 @@ public class WorkingWithVariables {
         // "Commanders" => value of the variable
 
         System.out.println( games );
+        System.out.println( className );
 
 
     }

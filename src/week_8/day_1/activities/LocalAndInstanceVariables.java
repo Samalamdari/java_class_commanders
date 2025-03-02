@@ -8,12 +8,13 @@ public class LocalAndInstanceVariables {
         String name = "";
         double salary;
 
+
 //        System.out.println( salary );
 
-        if ( 10 <= 0 ) {
+        if ( 10 >= 0 ) {
             int number = 10;
-            System.out.println( number );
-            System.out.println( name );
+            System.out.println("Print number:" + number );
+            System.out.println("print name: " + name );
         }
 
 //        System.out.println( number );

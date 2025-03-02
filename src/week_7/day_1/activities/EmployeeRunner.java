@@ -6,7 +6,7 @@ public class EmployeeRunner {
 
         Employee firstEmployee = new Employee();
         Employee secondEmployee = new Employee();
-//        var firstEmployee = new Employee();
+//        var firstEmployee = new EmployeeRecord();
 
         firstEmployee.firstName = "Bob";
         firstEmployee.lastName = "Morphy";

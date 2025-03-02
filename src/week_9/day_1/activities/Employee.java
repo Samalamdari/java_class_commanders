@@ -8,7 +8,7 @@ public class Employee extends GeneralInformation{
 
     @Override
     public void printInfo() {
-        System.out.println("* * * * * Employee * * * * * * ");
+        System.out.println("* * * * * EmployeeRecord * * * * * * ");
         System.out.println("FirstName: " + firstName);
         System.out.println("LastName: " + lastName);
         System.out.println("Phone Number: " + phoneNumber);

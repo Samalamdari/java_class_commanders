@@ -13,7 +13,7 @@ public class Employee extends GeneralInformation {
     @Override
     public void print() {
 //        System.out.println(" * * * * * * " + getFirstName() +  " " + getLastName() + " * * * * * * ");
-        System.out.println(" * * * * * * Employee " + countEmployee + " * * * * * * ");
+        System.out.println(" * * * * * * EmployeeRecord " + countEmployee + " * * * * * * ");
         System.out.println("FirstName: " + getFirstName() );
         System.out.println("LastName: " + getLastName() );
         System.out.println("Age: " + getAge() );

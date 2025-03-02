@@ -6,7 +6,7 @@ public class CompareTwoNumbersUsingSwitchStatement {
 
         // Try to find the bigger number among two numbers using switch statement!
 
-        int numberOne = 1500;
+        int numberOne = 1600;
         int numberTwo = 1500;
 
         int compareResult;

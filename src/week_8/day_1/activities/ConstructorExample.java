@@ -6,19 +6,18 @@ import java.util.Scanner;
 
 public class ConstructorExample {
 
-    int number;
+   int number;
    String firstName;
 
     public ConstructorExample() {
         number = 0;
-        firstName = "";
+        firstName = "Mike";
+//        System.out.println("Hello David!");
     }
 
-   public static void printMessage() {
-       System.out.println("Hello Humans!");
-   }
-
-
+    public void printMessage() {
+        System.out.println("Hello Humans!");
+    }
 }
 
 class Test {
@@ -32,6 +31,7 @@ class Test {
 
         System.out.println( obj.number );
         System.out.println( obj.firstName );
+        obj.printMessage();
 
     }
 
