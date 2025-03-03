@@ -17,7 +17,5 @@ public class AnimalRunner {
 
         System.out.println(animal.color);
         System.out.println(animal.name);
-
-
     }
 }

@@ -6,7 +6,10 @@ public record EmployeeRecord(String firstName, String lastName, String title, St
         System.out.println("First Name: " + firstName);  // way 1 directly call it
         System.out.println("First Name: " + firstName());  // way 2 like get method
         System.out.println("Last Name: " + lastName());  // way 2 like get method
+        System.out.println("Title: " + title());  // way 2 like get method
+        System.out.println("Address: " + address());  // way 2 like get method
+        System.out.println("Age: " + age());  // way 2 like get method
     }
 }
-// if someone ask you what is record, simply say remove or delete encapsulation.
+
 

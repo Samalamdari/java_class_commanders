@@ -22,7 +22,6 @@ import java.util.List;
         }else{
             System.out.println(target + ": " + listOfTargetIndexes);
         }
-
     }
  }
 

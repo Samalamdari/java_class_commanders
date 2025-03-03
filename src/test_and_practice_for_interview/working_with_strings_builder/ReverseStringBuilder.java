@@ -44,5 +44,4 @@ public class ReverseStringBuilder {
         StringBuilder strBuilder = new StringBuilder(str);
         return strBuilder.reverse();
     }
-
 }

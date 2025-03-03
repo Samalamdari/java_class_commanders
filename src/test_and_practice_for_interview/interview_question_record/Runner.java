@@ -5,11 +5,11 @@ public class Runner {
     public static void main(String[] args) {
 
         EmployeeRecord employeeOne = new EmployeeRecord(
-                "Sam",
+                "Tony",
                 "David",
                 "Engineer",
                 "Houston",
-                40
+                20
         );
 
         System.out.println(employeeOne);

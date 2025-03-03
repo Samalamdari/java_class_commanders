@@ -109,7 +109,5 @@ package test_and_practice_for_interview.object_oriented_programing_oop;
             System.out.println("Weight: " + getWeight() + " kg");
             System.out.println("----------------------------");
         }
-
-
     }
 

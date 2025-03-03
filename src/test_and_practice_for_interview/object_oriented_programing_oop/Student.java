@@ -12,6 +12,4 @@ public class Student extends GeneralInfo {
         super.printGeneralInfo();
         System.out.println("ClassName: " + className);
     }
-
-
 }

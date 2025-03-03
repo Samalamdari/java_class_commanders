@@ -14,11 +14,5 @@ public class ForEachLoopWithArray {
     }
 }
 
-// collection --> list, -->
-// set,
 
-// collections  ---> class  --> sort , reverse
-// Map --> key  --> is unique
-// , value  ---> is not unique
-// k , v
 

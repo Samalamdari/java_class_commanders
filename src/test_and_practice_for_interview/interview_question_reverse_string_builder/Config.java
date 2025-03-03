@@ -42,5 +42,4 @@ public class Config {
         System.out.println("Original Version: " + getMessage());
         System.out.println("Reversed Version: " + getReversedVersion());
     }
-
 }

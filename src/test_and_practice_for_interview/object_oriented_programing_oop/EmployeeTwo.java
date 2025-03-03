@@ -13,6 +13,4 @@ public class EmployeeTwo extends GeneralInfo{
         super.printGeneralInfo();
         System.out.println("companyName: " + companyName);
     }
-
-
 }

@@ -23,8 +23,5 @@ public class Runner {
                 "Commanders"
         );
         stdOne.printStudentInfo();
-
-
-
     }
 }

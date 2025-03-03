@@ -6,7 +6,5 @@ public class Practice2 {
         Practic1.printWelcomeMessage();
         Practic1.printCommandersMessage();
 
-
-
     }
 }

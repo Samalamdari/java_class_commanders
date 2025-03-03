@@ -37,6 +37,5 @@ public class WorkWithObjectOrientedPrograming {
         empObj2.printEmpInfo();
 
 
-
     }
 }

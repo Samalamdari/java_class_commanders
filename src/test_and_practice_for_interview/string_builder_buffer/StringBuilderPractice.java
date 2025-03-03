@@ -23,7 +23,5 @@ public class StringBuilderPractice {
         stringBuffer.append(" John");
         System.out.println(stringBuffer);
 
-
-
     }
 }

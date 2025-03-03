@@ -11,6 +11,5 @@ public class App {
         );
         config.printListOfTargetIndexes();
         config.printNumberOfTargetCharacters();
-
     }
 }
